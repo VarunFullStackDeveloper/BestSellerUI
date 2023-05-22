@@ -1,1 +1,4 @@
 # ChatApp
+
+#pull
+npm install
